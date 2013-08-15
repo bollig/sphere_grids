@@ -1,0 +1,11 @@
+====================================
+Timers [All times in ms (1/1000 s)]: 
+====================================
+
+[Main] Grid generation                              |  avg:  1483.3640  |  tot:  1483.3640  |  count=     1
+[Main] Load settings                                |  avg:     0.1720  |  tot:     0.1720  |  count=     1
+[Main] Total runtime for this proc                  |  avg:  1483.6591  |  tot:  1483.6591  |  count=     1
+
+NOTE: only timers that have called Timer::start() are shown. 
+      [A time of 0.0 may indicate the timer was not stopped.]
+====================================
